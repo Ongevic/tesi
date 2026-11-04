@@ -19,4 +19,4 @@ quarto use template quarto-monash/thesis
 This will install the extension and create the files that you can use as
 a starting place for your thesis.
 
-[![](examples/template.png)](examples/template.pdf)
+[![Title page of the example thesis PDF, showing the Monash University logo, thesis title, author and degree details](examples/template.png)](examples/template.pdf)
